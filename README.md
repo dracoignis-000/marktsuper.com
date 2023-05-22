@@ -1,30 +1,60 @@
-# E-Commerce-Grocery-Shop
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> MarktSuper 📦
 
-This is a front-end project for an ecommerce grocery shop website
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">This is a website design focused on showcasing an online grocery store. Housing an About, Services, Shop and Contact Us pages respectively The website design was created using HTML and CSS and JavaScript
 
-**Live site -** [https://e-grocery-shop.netlify.app/](https://e-grocery-shop.netlify.app/)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Preview
-![img01](https://user-images.githubusercontent.com/83011210/228043559-4ddc4c2c-cece-4274-b0da-a9daa780bbf0.png)
-![inside01](https://user-images.githubusercontent.com/83011210/228046936-8f8bf6c7-5444-4faa-ac6f-d3b94a87725a.png)
-![inside02](https://user-images.githubusercontent.com/83011210/228047094-ef607573-a3f7-46bb-a801-cf15fd12010f.png)
-![inside03](https://user-images.githubusercontent.com/83011210/228047155-9899560c-83d4-45ed-9fa9-ef56d4e47c06.png)
-![img02](https://user-images.githubusercontent.com/83011210/228043701-602e63cb-1389-4aee-9349-04c79c8b49fd.png)
-![lst01](https://user-images.githubusercontent.com/83011210/228186345-b4da14dd-da94-48e7-9b04-d238d6225145.png)
-![lst02](https://user-images.githubusercontent.com/83011210/228186684-712e2e20-d9b0-44d9-9a8e-36a826da2e74.png)
-![lst03](https://user-images.githubusercontent.com/83011210/228186739-5fdb94d4-d800-406d-b5e5-e39ab4cb94b7.png)
-![lst04](https://user-images.githubusercontent.com/83011210/228186955-748d06dd-8979-43e7-b5a2-5b780fda39e8.png)
-![lst05](https://user-images.githubusercontent.com/83011210/228187007-f0150400-b501-44dd-af97-1e9521578de2.png)
-![lst06](https://user-images.githubusercontent.com/83011210/228187058-a96e1926-3d7f-4dc3-8776-bc80e2b89994.png)
-![img03](https://user-images.githubusercontent.com/83011210/228043758-455f42bd-1e71-4ec2-b2ec-8d17f4d3d209.png)
-![img04](https://user-images.githubusercontent.com/83011210/228044605-1ea5ce48-53a3-44ac-a18a-d1f1a3b8ced2.png)
-![img05](https://user-images.githubusercontent.com/83011210/228043821-c8b89c66-05ff-4c40-b485-51758711b9e8.png)
-![img06](https://user-images.githubusercontent.com/83011210/228043874-328fce9e-6caf-4d4f-81dd-e346f20b96cd.png)
-![category](https://user-images.githubusercontent.com/83011210/228050636-045d3bbb-b57c-47ac-9f1d-8f917b954429.png)
-![img07](https://user-images.githubusercontent.com/83011210/228043950-7d076f86-365d-4898-955e-b9542d617738.png)
-![img08](https://user-images.githubusercontent.com/83011210/228044020-3a613927-4152-4bc5-ab70-fe43bce10f4c.png)
-![img09](https://user-images.githubusercontent.com/83011210/228044276-b5c9533a-2ece-4192-9f2b-2376173fff09.png)
-![img009](https://user-images.githubusercontent.com/83011210/228050494-f006debe-3d24-42d5-bf9f-b799b224cd84.png)
-![img10](https://user-images.githubusercontent.com/83011210/228044390-85a0367d-0c1f-472c-9e8a-7cd9707d7616.png)
-![img11](https://user-images.githubusercontent.com/83011210/228044477-d1cfc0e4-150e-4824-9909-6ce36b124f26.png)
-![img12](https://user-images.githubusercontent.com/83011210/228044555-8ed31845-82b0-4b5f-8a0d-f2af2d5a9d44.png)
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | 
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Table of Contents
+---
+
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [Credits](#credits)
+-   [License](#license)
+
+## Installation
+---
+
+1.  Clone the repository from GitHub:
+```
+git clone https://github.com/yourusername/fruit-website
+```
+
+3.  Navigate to the project directory:
+
+```
+cd fruit-website
+```
+
+3.  Open the index.html file in your preferred web browser.
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+## Usage
+---
+
+The website includes the following pages:
+
+-   Homepage: This page welcomes users to the website and provides links to the about page and fruit catalog page.
+-   About Page: This page provides information about the website and its purpose.
+-   Fruit Catalog Page: This page showcases different types of fruits and allows users to view details about each fruit.
+
+To navigate between pages, use the links in the header of each page.
+
+## Credits
+---
+<img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
+
+The fruit images used in the website were sourced from non copyright database. The website design was created using HTML and custom CSS.
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
+## License
+---
+
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
