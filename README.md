@@ -1,6 +1,6 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> MarktSuper 📦
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">This is a website design focused on showcasing an online grocery store. Housing an About, Services, Shop and Contact Us pages respectively The website design was created using HTML and CSS and JavaScript
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">This is a website design focused on showcasing an online grocery store. Housing a static Homepage which includes the following sub sections About, Services, Shop and Contact Us sections respectively The website design was created using HTML and CSS and JavaScript
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -20,13 +20,13 @@
 
 1.  Clone the repository from GitHub:
 ```
-git clone https://github.com/yourusername/fruit-website
+git clone https://github.com/dracoignis-000/marktsuper.com.git
 ```
 
 3.  Navigate to the project directory:
 
 ```
-cd fruit-website
+cd marktsuper.com
 ```
 
 3.  Open the index.html file in your preferred web browser.
@@ -38,9 +38,9 @@ cd fruit-website
 
 The website includes the following pages:
 
--   Homepage: This page welcomes users to the website and provides links to the about page and fruit catalog page.
--   About Page: This page provides information about the website and its purpose.
--   Fruit Catalog Page: This page showcases different types of fruits and allows users to view details about each fruit.
+-   Homepage: This page welcomes users to the website and provides links to the about section and products catalog section.
+-   About Section: This page provides information about the website and its purpose.
+-   Products Catalog Page: This page showcases different types of fruits and allows users to view details about each fruit.
 
 To navigate between pages, use the links in the header of each page.
 
